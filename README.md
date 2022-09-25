@@ -19,7 +19,7 @@ You can [download the files directly from GitHub](https://github.com/Tochi-Onwua
 You can also use NPM
 
 ```bash
-npm install tonwuaso-date-time-library
+npm i tonwuaso-date-time-library
 ```
 
 
