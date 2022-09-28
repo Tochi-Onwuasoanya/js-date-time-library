@@ -21,7 +21,9 @@ You can also use NPM
 ```bash
 npm i tonwuaso-date-time-library
 ```
-
+**Download from NPM Website**
+title="Npm"
+href="https://www.npmjs.com/package/tonwuaso-date-time-library"
 
 ## Browser Compatibility
 
