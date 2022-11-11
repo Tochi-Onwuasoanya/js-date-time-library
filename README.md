@@ -1,6 +1,6 @@
 # js-date-time-library
 A simple JavaScript utility library for adding and manipulating date and time
-- ES modules used to make library modular and tree-shakable with ES modules
+- ES modules used to make library modular and tree-shakable 
 - Used OOP to make library chainable and immutable
 - Bundled and packaged library for distribution and performance using Rollup and Npm
 
