@@ -6,7 +6,7 @@ A simple JavaScript utility library for adding and manipulating date and time
 
 **[View the Demo on CodePen &rarr;](https://codepen.io/tochi2310/pen/poVdExZ)**
 
-[Installation](#installation) | [Browser Compatibility](#browser-compatibility) | [License](#license)
+[Installation](#installation) | [Browser Compatibility](#browser-compatibility) |
 
 ## Installation
 
@@ -28,6 +28,3 @@ npm i tonwuaso-date-time-library
 
 Library works in all modern browsers, and IE 9 and above.
 
-## License
-
-The code is available under the [MIT License](LICENSE.md).
